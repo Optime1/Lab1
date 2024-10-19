@@ -1,0 +1,38 @@
+﻿  main.c
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,28): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,28):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,28):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,28):
+  этот аргумент используется в качестве размера буфера
+  
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,69): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,69):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,69):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(19,69):
+  этот аргумент используется в качестве размера буфера
+  
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(30,28): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(30,28):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(30,28):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(30,28):
+  этот аргумент используется в качестве размера буфера
+  
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(34,28): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(34,28):
+  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(34,28):
+  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(34,28):
+  этот аргумент используется в качестве размера буфера
+  
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(61,23): warning C4047: функция: "const size_t" отличается по уровням косвенного обращения от "char [3]"
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(61,23): warning C4024: sprintf_s: различные типы для формального и фактического параметров 2
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(61,29): warning C4047: функция: "const char *const " отличается по уровням косвенного обращения от "int"
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(61,29): warning C4024: sprintf_s: различные типы для формального и фактического параметров 3
+C:\Users\Zakhar\source\repos\LR1.7\LR1.7\main.c(69,12): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
