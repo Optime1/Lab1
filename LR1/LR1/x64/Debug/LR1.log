@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Zakhar\source\repos\LR1\LR1\main.c(109,12): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Zakhar\source\repos\LR1\LR1\main.c(129,20): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  LR1.vcxproj -> C:\Users\Zakhar\source\repos\LR1\x64\Debug\LR1.exe
