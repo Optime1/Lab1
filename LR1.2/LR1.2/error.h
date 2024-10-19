@@ -1,0 +1,2 @@
+#define ERR_INVALID_ARGS 3
+#define SUCCESS 0

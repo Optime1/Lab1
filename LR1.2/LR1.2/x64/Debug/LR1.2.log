@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Zakhar\source\repos\LR1.2\LR1.2\main.c(65,18): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+C:\Users\Zakhar\source\repos\LR1.2\LR1.2\main.c(107,1): warning C4716: Equation: должна возвращать значение
+  LR1.2.vcxproj -> C:\Users\Zakhar\source\repos\LR1.2\x64\Debug\LR1.2.exe
