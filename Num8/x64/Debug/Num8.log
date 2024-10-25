@@ -1,0 +1,5 @@
+﻿  sum.c
+C:\Users\Zakhar\source\repos\Laba2\Num8\sum.c(17,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Zakhar\source\repos\Laba2\Num8\sum.c(27,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Zakhar\source\repos\Laba2\Num8\sum.c(28,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Num8.vcxproj -> C:\Users\Zakhar\source\repos\Laba2\x64\Debug\Num8.exe
