@@ -1,0 +1,4 @@
+﻿  add.c
+C:\Users\Zakhar\source\repos\Laba2\Num10\add.c(153,9): warning C4101: coefficients4: неиспользованная локальная переменная
+C:\Users\Zakhar\source\repos\Laba2\Num10\add.c(148,9): warning C4101: coefficients3: неиспользованная локальная переменная
+  Num10.vcxproj -> C:\Users\Zakhar\source\repos\Laba2\x64\Debug\Num10.exe
