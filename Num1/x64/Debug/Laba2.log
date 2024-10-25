@@ -1,0 +1,8 @@
+﻿  main.c
+  LINK : После прошлого связывания создано модулей — 0, изменено модулей — 1 (из 40)
+  Запуск 2-го прохода
+       string.obj
+       main.obj
+       MSVCRTD.lib(loadcfg.obj)
+  2-ой проход завершен
+  Laba2.vcxproj -> C:\Users\Zakhar\source\repos\Laba2\x64\Debug\Num1.exe
