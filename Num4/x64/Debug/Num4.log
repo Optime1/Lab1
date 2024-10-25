@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Num4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Kapreker.c
+  Num4.vcxproj -> C:\Users\Zakhar\source\repos\Laba2\x64\Debug\Num4.3.exe
