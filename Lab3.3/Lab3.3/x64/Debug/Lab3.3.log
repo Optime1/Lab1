@@ -1,0 +1,7 @@
+﻿  func.c
+C:\Users\Zakhar\source\repos\Lab3.3\Lab3.3\func.c(125,8): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Zakhar\source\repos\Lab3.3\Lab3.3\func.c(138,10): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+  main.c
+C:\Users\Zakhar\source\repos\Lab3.3\Lab3.3\main.c(50,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Lab3.3.vcxproj -> C:\Users\Zakhar\source\repos\Lab3.3\x64\Debug\Lab3.3.exe
