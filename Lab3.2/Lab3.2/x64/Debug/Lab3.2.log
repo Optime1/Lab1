@@ -1,0 +1,10 @@
+﻿  func.c
+C:\Users\Zakhar\source\repos\Lab3.2\Lab3.2\func.c(125,8): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Zakhar\source\repos\Lab3.2\Lab3.2\func.c(138,10): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+  main.c
+C:\Users\Zakhar\source\repos\Lab3.2\Lab3.2\main.c(56,10): warning C4477: "printf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "1" имеет тип "size_t"
+  C:\Users\Zakhar\source\repos\Lab3.2\Lab3.2\main.c(56,10):
+  рекомендуется использовать "%zd" в строке форматирования
+  
+  Создание кода...
+  Lab3.2.vcxproj -> C:\Users\Zakhar\source\repos\Lab3.2\x64\Debug\Lab3.2.exe
